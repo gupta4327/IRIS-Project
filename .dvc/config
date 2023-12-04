@@ -1,0 +1,2 @@
+['remote "myrem"']
+    url = ../../rem_dvc
