@@ -1,6 +1,9 @@
-from src.data.make_dataset import iris_data
 import pandas as pd
+import importlib
+import sys
 
-print(iris_data.head())
+
+
+#print(iris_data.head())
 
 
